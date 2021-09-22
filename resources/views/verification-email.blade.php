@@ -1,4 +1,4 @@
-<h1>Trial Systems</h1>
+<h1>Prelim App</h1>
 
 <p>
   Welcome {{$user->name}},
